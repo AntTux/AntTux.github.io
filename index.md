@@ -1,4 +1,5 @@
 Kia ora,
+
 I’m Anthony and I love to teach maths.
 I’ve been teaching maths to students of all ages for the past 5 years. 
 My tutoring journey has inspired me to become a qualified teacher! It’s a work in progress now.
@@ -6,10 +7,10 @@ My tutoring journey has inspired me to become a qualified teacher! It’s a work
 I have a calm and patient teaching style. I cater for every kind of student – I know we all learn differently!
 
 # What I can help you with:
-NCEA, IB Maths
-Years 9-10 Maths
-First and second year university maths subjects (just ask)
-Maths entrance tests and general maths help
+- NCEA, IB Maths
+- Years 9-10 Maths
+- First and second year university maths subjects (just ask)
+- Maths entrance tests and general maths help
 
 # Some of my relevant experience:
 -	Private tutor at Apex Tuition Australia from 2016 to 2019 where I taught a total of 18 students in maths and physics subjects
